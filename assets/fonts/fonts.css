@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Kallisto;
+  font-weight: 500;
+  src: url("./Kallisto/Kallisto_Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Kallisto;
+  font-weight: 700;
+  src: url("./Kallisto/Kallisto_Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Kallisto;
+  font-weight: 400;
+  src: url("./Kallisto/Kallisto_Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Kallisto;
+  font-weight: 300;
+  src: url("./Kallisto/Kallisto_Thin.otf") format("opentype");
+}
+
+/* @font-face {
+  font-family: Aeonik;
+  font-weight: 500;
+  src: url("./Kallisto/Kallisto_Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Kallisto;
+  font-weight: 700;
+  src: url("./Kallisto/Kallisto_Bold.otf") format("opentype");
+} */
+
+@font-face {
+  font-family: Aeonik;
+  font-weight: 400;
+  src: url("./Aeonik/AeonikTRIAL-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Aeonik;
+  font-weight: 300;
+  src: url("./Aeonik/AeonikTRIAL-Light.otf") format("opentype");
+}
